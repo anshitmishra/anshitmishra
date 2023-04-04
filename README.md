@@ -22,7 +22,7 @@ https://github.com/rotenx
 <img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=anshitmishra&label=Profile%20Views&color=10&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=anshitmishra&label=Profile%20Views&color=10&pretty=false)](https://github.com/rotenx)
 
 
   
